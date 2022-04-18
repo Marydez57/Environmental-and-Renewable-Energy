@@ -28,7 +28,7 @@ const Navbar = () => {
           <nav className="navbar">
               <div className='navbar-container'>
                   <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-                      ENV&NEW <i className="fa-solid fa-solar-panel" />
+                      ENVIRONMENTAL & RENEWABLE ENERGY LTD <i className="fa-solid fa-solar-panel" />
                     
                   </Link>
                   <div className='menu-icon' onClick={handleClick}>
