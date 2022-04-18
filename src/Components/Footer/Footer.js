@@ -59,7 +59,7 @@ const Footer = () => {
               <div className={styles.socialMediaIcons}>
                   <div className={styles.footerLogo}>
                       <Link to='/' className={styles.socialLogo} >
-                          Environmental&Renewable Energy Ltd
+                          Environmental & Renewable Energy Ltd
                             <i className="fab fa-typo3"></i>
                       </Link>
                   </div>
