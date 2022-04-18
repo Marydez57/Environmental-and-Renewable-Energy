@@ -159,10 +159,7 @@
 }
 
 @media screen and (max-width: 600px) {
-    .nav-menu {
-        display: none;
-    }
-
+    
     .nav-links-mobile {
         display: block;
     }
