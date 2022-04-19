@@ -117,6 +117,7 @@
         position: absolute;
         top: 0;
         left: 0;
+        font-size: 1rem;
 
         transform: translate(25%, 50%);
     }
@@ -168,6 +169,7 @@
         position: absolute;
         top: 0;
         left: -10px;
+        font-size: 1rem;
     }
 }
     
